@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm AnnAnn 👋
 
-<!--
-**nAnAowob/nAnAowob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical and Computer Engineering student (Class of 2025) at **The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**
 
-Here are some ideas to get you started:
+🤖 Interested in **Robotics, Computer Vision, Embedded Systems, and Software Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning and exploring:
+- C / C++
+- Python
+- CAD
+- Git & GitHub
+- Robotics
+
+## 👩🏻‍💻 About Me
+
+- 🎓 ECE undergraduate at CUHK-Shenzhen (CE Stream)
+- 🤖 Exploring different areas of robotics and engineering
+- 🔬 Interested in joining robotics-related research projects
+- 💻 Enjoy learning both software and hardware
+- 📚 Currently building stronger foundations in programming, mathematics, and engineering
+- 🌏 International student from Thailand 🇹🇭
