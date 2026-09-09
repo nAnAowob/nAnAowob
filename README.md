@@ -1,21 +1,47 @@
-# Hi, I'm AnnAnn 👋
+<div align="center">
 
-🎓 Electrical and Computer Engineering student (Class of 2025) at **The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**
+# 🌷 Hi, I'm AnnAnn! ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
 
-🤖 Interested in **Robotics, Computer Vision, Embedded Systems, and Software Development**
+### Electrical and Computer Engineering  
+**Computer Engineering Stream**  
+The Chinese University of Hong Kong, Shenzhen  
+**2025 Cohort**
 
-🌱 Currently learning and exploring:
-- C / C++
-- Python
-- CAD
-- Git & GitHub
-- Robotics
+`hardware` • `software` • `robotics`
 
-## 👩🏻‍💻 About Me
+</div>
 
-- 🎓 ECE undergraduate at CUHK-Shenzhen (CE Stream)
-- 🤖 Exploring different areas of robotics and engineering
-- 🔬 Interested in joining robotics-related research projects
-- 💻 Enjoy learning both software and hardware
-- 📚 Currently building stronger foundations in programming, mathematics, and engineering
-- 🌏 International student from Thailand 🇹🇭
+---
+
+## 🎧 About Me
+
+- 🎓 ECE student in the **Computer Engineering Stream**
+- 🤖 Interested in robotics and interdisciplinary engineering
+
+---
+
+## 🖤 Currently Learning
+
+![C++](https://img.shields.io/badge/C++-E84A5F?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Circuit Design](https://img.shields.io/badge/Circuit%20Design-222222?style=for-the-badge)
+![Hardware](https://img.shields.io/badge/Hardware-FF6B81?style=for-the-badge)
+![Software](https://img.shields.io/badge/Software-333333?style=for-the-badge)
+
+### Previously studied
+
+![Python](https://img.shields.io/badge/Python-F58AA8?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🎸 Featured Project
+
+### Mayfly-Inspired Robotics Project  
+**Research Intern @ VISTEC Robotics Lab**  
+*June – July 2025 · 2-month internship*
+
+Worked on a bio-inspired robotics project inspired by mayflies, with a focus on mechanical design, prototyping, and future development.
+
+- Mechanical design and prototyping
+- CAD / 3D modeling
+- Research documentation
+- Design analysis and future improvements
