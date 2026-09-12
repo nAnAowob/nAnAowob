@@ -52,4 +52,4 @@ Worked on a bio-inspired robotics project inspired by mayflies, with a focus on 
 - Design analysis and future improvements
   
 [![VISTEC](https://img.shields.io/badge/VISTEC-Robotics-4B1F6F?style=for-the-badge)](https://brain.vistec.ac.th/people/)
-[![Repository](https://img.shields.io/badge/GitHub-View-8B1E2D?style=for-the-badge)](YOUR_REPOSITORY_LINK)
+[![Repository](https://img.shields.io/badge/GitHub-View-8B1E2D?style=for-the-badge)](https://github.com/nAnAowob/Mayfly-BioInspired-Robotics)
