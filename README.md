@@ -23,8 +23,8 @@ with interests in robot perception, control, embedded systems, and bio-inspired 
 
 ![C++](https://img.shields.io/badge/C++-E84A5F?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Circuit Design](https://img.shields.io/badge/Circuit%20Design-222222?style=for-the-badge)
-![Hardware](https://img.shields.io/badge/Hardware-FF6B81?style=for-the-badge)
-![Software](https://img.shields.io/badge/Software-333333?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-FF6B81?style=for-the-badge)
+![VibeCoding](https://img.shields.io/badge/VibeCoding-333333?style=for-the-badge)
 
 ### Previously studied
 
