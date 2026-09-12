@@ -16,12 +16,6 @@ with interests in robot perception, control, embedded systems, and bio-inspired 
 
 </div>
 
----
-
-## 🎧 About Me
-
-- 🎓 ECE student in the **Computer Engineering Stream**
-- 🤖 Interested in robotics and interdisciplinary engineering
 
 ---
 
