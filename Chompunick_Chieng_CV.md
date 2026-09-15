@@ -1,8 +1,8 @@
 # Chompunick Chieng
 
 Electrical and Computer Engineering Undergraduate | Shenzhen, China  
-[chompunick.ann@gmail.com](mailto:chompunick.ann@gmail.com)  
-[GitHub](https://github.com/nAnAowob) · [Portfolio](https://nanaowob.github.io/) · [LinkedIn](https://www.linkedin.com/in/chompunick-chieng-annann/)
+[125010008@link.cuhk.edu.cn](mailto:125010008@link.cuhk.edu.cn)  
+[GitHub](https://github.com/nAnAowob)
 
 ## Research Interests
 
@@ -19,7 +19,9 @@ Computer Engineering stream | September 2025–present
 
 **Kamnoetvidya Science Academy (KVIS)** — Upper Secondary Education, Thailand
 
-- Full scholarship; STEM research curriculum.
+- Full scholarship at a school with an intensive STEM research curriculum.
+- Coursework included calculus, introductory linear algebra, graph theory, Python programming, and computer design and manufacturing.
+- AP Calculus BC: **5/5**; AP Computer Science A: **4/5**.
 
 ## Research Experience
 
@@ -43,17 +45,14 @@ Bio-inspired Robotics and Neural Engineering Laboratory, School of Information S
 
 ## University Leadership and Activities
 
-**Leader, Thai Student Ambassadors — CUHK-Shenzhen**
+**Leader, Thai Student Ambassadors** | 2026–present
 
-- Lead the Thai student ambassador team.
 
-**Media Team Leader, International Diligentia Committee — CUHK-Shenzhen**
+**Media Team, International Diligentia Committee** | 2026–present
 
-- Lead the committee’s media team.
 
-**Lead Organizer, SSE International Party — CUHK-Shenzhen**
+**Lead Organizer, SSE International Party** | August–September 2026 (ends September 18)
 
-- Lead the organization of the SSE International Party.
 
 ## Technical Skills
 
