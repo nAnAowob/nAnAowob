@@ -19,9 +19,7 @@ Computer Engineering stream | September 2025–present
 
 **Kamnoetvidya Science Academy (KVIS)** — Upper Secondary Education, Thailand
 
-- Full scholarship at a school with an intensive STEM research curriculum.
-- Coursework included calculus, introductory linear algebra, graph theory, Python programming, and computer design and manufacturing.
-- AP Calculus BC: **5/5**; AP Computer Science A: **4/5**.
+- Full scholarship; STEM research curriculum.
 
 ## Research Experience
 
@@ -37,50 +35,29 @@ Bio-inspired Robotics and Neural Engineering Laboratory, School of Information S
 - Tested four model configurations on flat and curved surfaces using a force gauge and a Dynamixel-based motion setup; collected force measurements to compare attachment performance.
 - Documented preliminary findings and experimental limitations. A manuscript is in preparation.
 
-## Earlier Research Projects
-
-**AstroDS U-NET/GAN — Astronomical Image Denoising** | KVIS, high-school project
-
-- Contributed to a project exploring U-NET, SSIM loss, and generative adversarial networks for reducing noise in astronomical images.
-- Qualified in the regional research proposal round of the 26th Young Scientist Competition (YSC 2024).
-
-**Asteroid Distribution and Fluid Instability** | KVIS, 2022–2023
-
-- Investigated a possible relationship between Trojan and Hilda asteroid distributions and fluid instability principles.
-- Used Python to create 3D scatter plots of asteroid distributions.
-
-## Programming Experience
-
-**C++ Problem-Solving Practice** | [Repository](https://github.com/nAnAowob/Programming.in.th)
-
-- Developed practice solutions for programming.in.th problems using C++ control flow, loops, arrays, and numerical operations.
-- Continue to strengthen programming fundamentals through exercises and current C/C++ coursework.
-
-**CSC3002 Course Notes and Exercises** | [Repository](https://github.com/nAnAowob/CSC3002-Fall-2026)
-
-- Maintain a repository of notes and programming practice for C/C++ Programming, Fall 2026.
-
 ## Academic Appointment
 
 **Selected USTF, MAT1001 Calculus I — CUHK-Shenzhen** | AY2026–27 Term 1
 
 - Selected for the USTF role; duties have not yet commenced.
 
-## Selected Awards
+## University Leadership and Activities
 
-- **CANSAT-ROCKET Thailand:** Finalist and Rocket Special Award (2023); Honor Award in the qualifiers round (2024).
-- **CUD Hackathon:** One of 15 national-round finalists (2023).
-- **Australian Mathematics Competition:** Distinction, 2022–2024.
+**Leader, Thai Student Ambassadors — CUHK-Shenzhen**
 
-## Leadership and Teaching
+- Lead the Thai student ambassador team.
 
-- **Secretary, IT Department, KVIS Student Committee** | 2023–2024.
-- **Khan Academy For Thais Club** | 2023: Taught mathematics to local students.
+**Media Team Leader, International Diligentia Committee — CUHK-Shenzhen**
+
+- Lead the committee’s media team.
+
+**Lead Organizer, SSE International Party — CUHK-Shenzhen**
+
+- Lead the organization of the SSE International Party.
 
 ## Technical Skills
 
 - **Mechanical design and fabrication:** SOLIDWORKS, CAD modeling, 3D printing, silicone mold casting, iterative prototyping.
 - **Experimental work:** Force measurement, data collection, prototype comparison, technical documentation.
 - **Programming:** C++ practice; Python for scientific visualization; currently studying C/C++.
-- **Additional training:** League of Code C++ Levels 1–2; web development coursework in HTML, CSS, and JavaScript; UTCC drone programming workshop.
 - **Tools:** GitHub, LaTeX.
